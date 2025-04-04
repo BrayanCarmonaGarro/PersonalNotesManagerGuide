@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cspell": "^8.18.1",
+    "prettier": "^3.5.3"
+  }
+}
